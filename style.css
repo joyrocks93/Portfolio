@@ -319,7 +319,7 @@ nav ul li a:hover::after{
 }
 /* ----------------------------contact------------------- */
 #contact{
-    padding:50px;
+    padding: 50px;
 }
 .contact-left{
     flex-basis: 35%;
